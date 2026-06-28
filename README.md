@@ -24,9 +24,10 @@ This project monitors the position and orientation of an object using an ESP32, 
 - Wokwi simulation
 
 ## Files
-- Project_Report.docx
+- Position Monitoring System.docx
 - sketch.ino
 - diagram.json
 - Flowchart.png
 - Circuit.png
-- Demo.mp4
+
+#Demo video link in word file
